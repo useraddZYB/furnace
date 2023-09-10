@@ -12,6 +12,7 @@
 
 jar包已上传到github package仓库中：  
 https://github.com/useraddZYB?tab=packages   
+https://github.com/useraddZYB/furnace/packages/1941089  
 
 ```
 <dependency>
